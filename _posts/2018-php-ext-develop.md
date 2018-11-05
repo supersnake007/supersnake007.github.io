@@ -56,7 +56,7 @@ code and repeat the last two steps as often as necessary.
 
 --
 
-###实例
+### 实例
 
 扩展作用：将Content-Type为application/json的POST请求的json格式Body数据解析为数组形式，并写入到 \$\_POST中。
 
