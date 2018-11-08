@@ -1,3 +1,3 @@
 ### My Blog
 
-this is [my blog](zhudong.site)
+this is [my blog](https://zhudong.site)
