@@ -67,7 +67,7 @@ the struct's size is 16
 
 可以看到这个结构体总共占用16个字节。但是我们看到Test中只有long a、char b、 int c三个变量。他们的长度分别是8、1、4。8+1+4等于13，不等于16。这就是因为字节对齐造成的。那么16到底是怎么来的呢？
 
-![bytes_assign.png](https://github.com/cugblbs/cugblbs.github.io/blob/master/img/bytes_assign.png)
+![bytes_assign.png](https://zhudong.site/img/bytes_assign.png)
 
 在内存中补齐的3位到底是在前面还是在后面呢？ 答案是int和char之间。原因是struct中的字节对齐主要遵循以下两条规则。
 
