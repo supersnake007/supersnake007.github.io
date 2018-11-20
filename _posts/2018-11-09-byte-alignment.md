@@ -21,13 +21,13 @@ tags:
 #include<stdio.h>
 
 int main() {
-	 printf("the char's size is %d\n", sizeof(char));
-	 printf("the int's size is %d\n", sizeof(int));
-	 printf("the long's size is %d\n", sizeof(long));
-	 printf("the long long's size is %d\n", sizeof(long long));
-	 printf("the double's size is %d\n", sizeof(double));
-	 printf("the float's size is %d\n", sizeof(float));
-	 printf("the \*'s size is %d\n", sizeof(void *));
+    printf("the char's size is %d\n", sizeof(char));
+    printf("the int's size is %d\n", sizeof(int));
+    printf("the long's size is %d\n", sizeof(long));
+    printf("the long long's size is %d\n", sizeof(long long));
+    printf("the double's size is %d\n", sizeof(double));
+    printf("the float's size is %d\n", sizeof(float));
+    printf("the \*'s size is %d\n", sizeof(void *));
     return 0;
 }
 ```
@@ -55,7 +55,7 @@ typedef struct _Test{
 } Test;
 
 int main() {
-	 printf("the struct's size is %d\n",sizeof(Test));
+    printf("the struct's size is %d\n",sizeof(Test));
     return 0;
 }
 ```
