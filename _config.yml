@@ -1,11 +1,11 @@
 # Site settings
-title: ZhuDong's Blog
-SEOTitle: 朱栋的博客 | ZhuDong's Blog
+title: Linhaobo's Blog
+SEOTitle: 林浩博的博客 | Linhaobo's Blog
 header-img: img/home-bg-geek.jpg
-email: 1074439210@qq.com
-description: "后端开发 | 朱栋，Web Developer"
-keyword: "博客, 个人网站, 互联网, Web, 后端"
-url: "https://cugblbs.github.io/"              # your host, for absolute URL
+email: linhaobo_hubu@163.com
+description: "教育，科研，互联网 | 林浩博 Lhb"
+keyword: "博客, 个人网站, 教育，互联网,"
+url: "https://supersnake007.github.io/"              # your host, for absolute URL
 baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
 
 # Publish posts or collection documents with a future date.
@@ -13,9 +13,9 @@ future: true
 
 # SNS settings
 RSS: false
-weibo_username:     Juice_007
+weibo_username:     
 #zhihu_username:     
-github_username: cugblbs   
+github_username:    
 #twitter_username:   huxpro
 #facebook_username:  huxpro
 #linkedin_username:  firstname-lastname-idxxxx
